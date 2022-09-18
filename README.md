@@ -24,5 +24,5 @@
     * MDOP_AMDX_Templates.cab
     * Extract file cab :
       * -F:Files Name of files to expand from a .CAB
-      * expand MDOP_AMDX_Templates.cab -F:* MDOP_ADMX_Template :
+      * expand `MDOP_AMDX_Templates.cab -F:* MDOP_ADMX_Template` :
       * [<img src="https://i.imgur.com/HFfJSvrg.png">](https://i.imgur.com/HFfJSvrg.png)
