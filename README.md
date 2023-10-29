@@ -3,6 +3,7 @@
 ## Acronyme
 * ADMX : 
 * ADML :
+* GP - Group Policy
 
 ---
 
@@ -14,6 +15,7 @@
 ## ADMX
 ### File reference
 * ADMX & ADML
+    * Central Store for GP admx files : `\\<forest.root>\SysVol<forest.root>\Policies\PolicyDefinitions\`
      * %Windir%\PolicyDefinitions\
           * AdmPwd.admx
           * en-US\AdmPwd.adml
