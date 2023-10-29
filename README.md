@@ -15,7 +15,9 @@
 ## ADMX
 ### File reference
 * ADMX & ADML
-    * Central Store for GP admx files : `\\<forest.root>\SysVol<forest.root>\Policies\PolicyDefinitions\`
+    * Central Store for GP admx files :
+       * Syntax : `\\FQDN\SYSVOL\FQDN\policies`
+       * Demo : `\contoso.com\SYSVOL\contoso.com\policies\`
      * %Windir%\PolicyDefinitions\
           * AdmPwd.admx
           * en-US\AdmPwd.adml
