@@ -12,6 +12,11 @@
 
 ---
 
+## Tools
+1. [REGISTRY.POL](https://sdmsoftware.com/389932-gpo-freeware-downloads/registry-pol-viewer-utility/)
+
+---
+
 ## ADMX
 ### File reference
 * ADMX & ADML
